@@ -1,3 +1,3 @@
 # HackerEarth-Challenges
 
-Code for the HackerEarth Machine Learning/Deep Learning Challenges.
+Code for Machine Learning/Deep Learning Challenges in HackerEarth.
